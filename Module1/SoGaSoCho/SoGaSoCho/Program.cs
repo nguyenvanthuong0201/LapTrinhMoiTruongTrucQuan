@@ -26,7 +26,6 @@ namespace SoGaSoCho
             Console.Write("{0}", "nhap so c2: ");
             c2 = Convert.ToInt32(Console.ReadLine());
 
-
             float D = a1 * b2 - a2 * b1;
             float Dx = c1 * b2 - c2 * b1;
             float Dy = a1 * c2 - a2 * c1;
