@@ -21,7 +21,7 @@ namespace TinhTongSoChuoi
             double sum = 0;
             for(int i=1;i<=x;i++)
             {
-                n = n + i;
+                n = n * i;
                 for(int j=1;j<=n;j++)
                 {
                     sum += Math.Pow(x, i) /n ;
