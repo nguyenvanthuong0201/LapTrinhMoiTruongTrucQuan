@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97144B8F-321E-4484-92B2-E04C29DEE1F9}</ProjectGuid>
+    <ProjectGuid>{E721A8DD-7539-46D2-9D90-09E0AF215C43}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Bai_8_QuaySo</RootNamespace>
-    <AssemblyName>Bai_8_QuaySo</AssemblyName>
+    <RootNamespace>AddButton</RootNamespace>
+    <AssemblyName>AddButton</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

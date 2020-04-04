@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97144B8F-321E-4484-92B2-E04C29DEE1F9}</ProjectGuid>
+    <ProjectGuid>{59DC75E7-CBE4-47C8-8CB3-B89A730C1884}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Bai_8_QuaySo</RootNamespace>
-    <AssemblyName>Bai_8_QuaySo</AssemblyName>
+    <RootNamespace>BackColor</RootNamespace>
+    <AssemblyName>BackColor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
